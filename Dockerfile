@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM httpd:2.4.46-alpine
 EXPOSE 80
-COPY . /usr/share/nginx/html
+COPY ./index.html /usr/local/apache2/htdocs/
 
