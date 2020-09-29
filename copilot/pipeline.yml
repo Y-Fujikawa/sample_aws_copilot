@@ -1,7 +1,7 @@
 # This YAML file defines the relationship and deployment ordering of your environments.
 
 # The name of the pipeline
-name: pipeline-sample-aws-copilot-Y-Fujikawa-sample_aws_copilot
+name: pipeline-sample-aws-copilot
 
 # The version of the schema used in this template
 version: 1
